@@ -1,2 +1,1 @@
-# daniel-hunziker
-daniel hunziker webflow gsap
+# webpack-template
